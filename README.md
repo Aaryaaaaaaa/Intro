@@ -1,3 +1,3 @@
 ~Exploring ML with healthcare
 <br>
-Brain tumor detection using DL and CNN<p>This was my first DL project
+Brain tumor detection using DL and CNN<br>This was my first DL project
